@@ -98,7 +98,7 @@ Personal portfolio with clean UI + responsive layout.
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: [Amina Ibrahim](https://www.linkedin.com/in/amina-ibrahim-835675368)  
+- 💼 LinkedIn: [Amina Ibrahim](https://www.linkedin.com/in/amina-ibrahim-835675386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🌐 Portfolio: *https://github.com/aminaibrahim01/AMINAIBRAHIM-Portfolio*  
 - 📧 Email: *aminaibrahim098@gmail.com*
 
